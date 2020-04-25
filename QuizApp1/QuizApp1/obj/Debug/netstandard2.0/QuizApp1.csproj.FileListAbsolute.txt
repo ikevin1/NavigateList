@@ -1,0 +1,40 @@
+E:\Mobile Dev App\Unit 8\Assignment\QuizApp1\QuizApp1\QuizApp1\obj\Debug\netstandard2.0\QuizApp1.csprojAssemblyReference.cache
+E:\Mobile Dev App\Unit 8\Assignment\QuizApp1\QuizApp1\QuizApp1\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Mobile Dev App\Unit 8\Assignment\QuizApp1\QuizApp1\QuizApp1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Mobile Dev App\Unit 8\Assignment\QuizApp1\QuizApp1\QuizApp1\obj\Debug\netstandard2.0\QuizApp1.AssemblyInfoInputs.cache
+E:\Mobile Dev App\Unit 8\Assignment\QuizApp1\QuizApp1\QuizApp1\obj\Debug\netstandard2.0\QuizApp1.AssemblyInfo.cs
+E:\Mobile Dev App\Unit 8\Assignment\QuizApp1\QuizApp1\QuizApp1\bin\Debug\netstandard2.0\QuizApp1.deps.json
+E:\Mobile Dev App\Unit 8\Assignment\QuizApp1\QuizApp1\QuizApp1\bin\Debug\netstandard2.0\QuizApp1.dll
+E:\Mobile Dev App\Unit 8\Assignment\QuizApp1\QuizApp1\QuizApp1\bin\Debug\netstandard2.0\ref\QuizApp1.dll
+E:\Mobile Dev App\Unit 8\Assignment\QuizApp1\QuizApp1\QuizApp1\bin\Debug\netstandard2.0\QuizApp1.pdb
+E:\Mobile Dev App\Unit 8\Assignment\QuizApp1\QuizApp1\QuizApp1\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Mobile Dev App\Unit 8\Assignment\QuizApp1\QuizApp1\QuizApp1\obj\Debug\netstandard2.0\QuizApp1.dll
+E:\Mobile Dev App\Unit 8\Assignment\QuizApp1\QuizApp1\QuizApp1\obj\Debug\netstandard2.0\ref\QuizApp1.dll
+E:\Mobile Dev App\Unit 8\Assignment\QuizApp1\QuizApp1\QuizApp1\obj\Debug\netstandard2.0\QuizApp1.pdb
+E:\Mobile Dev App\Unit 8\Assignment-QuizApp1\QuizApp1\QuizApp1\bin\Debug\netstandard2.0\QuizApp1.deps.json
+E:\Mobile Dev App\Unit 8\Assignment-QuizApp1\QuizApp1\QuizApp1\bin\Debug\netstandard2.0\QuizApp1.dll
+E:\Mobile Dev App\Unit 8\Assignment-QuizApp1\QuizApp1\QuizApp1\bin\Debug\netstandard2.0\ref\QuizApp1.dll
+E:\Mobile Dev App\Unit 8\Assignment-QuizApp1\QuizApp1\QuizApp1\bin\Debug\netstandard2.0\QuizApp1.pdb
+E:\Mobile Dev App\Unit 8\Assignment-QuizApp1\QuizApp1\QuizApp1\obj\Debug\netstandard2.0\QuizApp1.csprojAssemblyReference.cache
+E:\Mobile Dev App\Unit 8\Assignment-QuizApp1\QuizApp1\QuizApp1\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Mobile Dev App\Unit 8\Assignment-QuizApp1\QuizApp1\QuizApp1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Mobile Dev App\Unit 8\Assignment-QuizApp1\QuizApp1\QuizApp1\obj\Debug\netstandard2.0\QuizApp1.AssemblyInfoInputs.cache
+E:\Mobile Dev App\Unit 8\Assignment-QuizApp1\QuizApp1\QuizApp1\obj\Debug\netstandard2.0\QuizApp1.AssemblyInfo.cs
+E:\Mobile Dev App\Unit 8\Assignment-QuizApp1\QuizApp1\QuizApp1\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Mobile Dev App\Unit 8\Assignment-QuizApp1\QuizApp1\QuizApp1\obj\Debug\netstandard2.0\QuizApp1.dll
+E:\Mobile Dev App\Unit 8\Assignment-QuizApp1\QuizApp1\QuizApp1\obj\Debug\netstandard2.0\ref\QuizApp1.dll
+E:\Mobile Dev App\Unit 8\Assignment-QuizApp1\QuizApp1\QuizApp1\obj\Debug\netstandard2.0\QuizApp1.pdb
+E:\Mobile Dev App\Unit 10\Assignment 10\QuizApp1\QuizApp1\bin\Debug\netstandard2.0\QuizApp1.deps.json
+E:\Mobile Dev App\Unit 10\Assignment 10\QuizApp1\QuizApp1\bin\Debug\netstandard2.0\QuizApp1.dll
+E:\Mobile Dev App\Unit 10\Assignment 10\QuizApp1\QuizApp1\bin\Debug\netstandard2.0\ref\QuizApp1.dll
+E:\Mobile Dev App\Unit 10\Assignment 10\QuizApp1\QuizApp1\bin\Debug\netstandard2.0\QuizApp1.pdb
+E:\Mobile Dev App\Unit 10\Assignment 10\QuizApp1\QuizApp1\obj\Debug\netstandard2.0\QuizApp1.csprojAssemblyReference.cache
+E:\Mobile Dev App\Unit 10\Assignment 10\QuizApp1\QuizApp1\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Mobile Dev App\Unit 10\Assignment 10\QuizApp1\QuizApp1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Mobile Dev App\Unit 10\Assignment 10\QuizApp1\QuizApp1\obj\Debug\netstandard2.0\QuizApp1.csproj.CoreCompileInputs.cache
+E:\Mobile Dev App\Unit 10\Assignment 10\QuizApp1\QuizApp1\obj\Debug\netstandard2.0\QuizApp1.AssemblyInfoInputs.cache
+E:\Mobile Dev App\Unit 10\Assignment 10\QuizApp1\QuizApp1\obj\Debug\netstandard2.0\QuizApp1.AssemblyInfo.cs
+E:\Mobile Dev App\Unit 10\Assignment 10\QuizApp1\QuizApp1\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Mobile Dev App\Unit 10\Assignment 10\QuizApp1\QuizApp1\obj\Debug\netstandard2.0\QuizApp1.dll
+E:\Mobile Dev App\Unit 10\Assignment 10\QuizApp1\QuizApp1\obj\Debug\netstandard2.0\ref\QuizApp1.dll
+E:\Mobile Dev App\Unit 10\Assignment 10\QuizApp1\QuizApp1\obj\Debug\netstandard2.0\QuizApp1.pdb

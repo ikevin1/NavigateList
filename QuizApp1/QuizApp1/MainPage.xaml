@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:local="clr-namespace:QuizApp1;assembly=QuizApp1"
+             mc:Ignorable="d"
+             x:Class="QuizApp1.MainPage"
+             Title="Quizy">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label x:Name="YoResults"
+               HorizontalTextAlignment="Center"
+               VerticalOptions="CenterAndExpand"
+               TextColor="Black"
+               IsVisible="false"
+               FontSize="Title"
+               FontAttributes="Bold"
+               Text="{Binding currentScore, StringFormat='YoResults: {0}'}" />
+
+        <Label x:Name="players"
+               HorizontalTextAlignment="Center"
+               VerticalOptions="CenterAndExpand"
+               TextColor="IndianRed"
+               FontSize="Title"
+               Text="" />
+
+
+        <Label x:Name="showText"
+               TextColor="CadetBlue" FontSize="Title" FontAttributes="Bold"
+               Text="" 
+               HorizontalOptions="Center"
+               IsVisible="false"
+               VerticalOptions="CenterAndExpand"/>
+
+        <!--<Label Text="{Binding Name}" d:Text="{Binding Age}" 
+               FontSize="Large"
+               VerticalOptions="CenterAndExpand"
+               HorizontalOptions="Center" />-->
+       
+        <Label Text="Welcome to the quizzy list show! Use the A/B button to choose from the purpled option above it" 
+           HorizontalOptions="Center"
+        VerticalOptions="CenterAndExpand" />
+        <Image Source="best.jpg"
+                Aspect="AspectFill"
+                Margin="-10"
+                HeightRequest="100"
+                WidthRequest="100" />
+      
+        <Entry x:Name="Name"
+           Placeholder="Enter Yo Name"
+           Keyboard="Text"
+           TextColor="DarkBlue"
+           PlaceholderColor="DarkBlue"
+           IsVisible="True"
+           HorizontalOptions="Start"
+           WidthRequest="300"
+         />        
+        <Entry x:Name="Age"
+           Placeholder="Enter Yo Age"
+           Keyboard="Numeric"
+           TextColor="DarkBlue"
+           PlaceholderColor="DarkBlue"
+           IsVisible="True"
+           HorizontalOptions="Start"
+           WidthRequest="120"
+         />
+        <Button Text="Start Quiz" IsVisible="true" Clicked="begin_clicked" CharacterSpacing="5" HorizontalOptions="Center" BackgroundColor="#2471A3" x:Name="begin_btn"/>
+
+        <Label HorizontalTextAlignment="Center" VerticalOptions="CenterAndExpand" x:Name="begin_quiz"
+               TextColor="DarkRed" FontSize="Title" FontAttributes="Bold" IsVisible="false"
+               Text="*The Quiz Questions*" />
+
+        <Label x:Name="showQuiz"
+               TextColor="CadetBlue" FontSize="Title" FontAttributes="Bold"
+               Text="" 
+               HorizontalOptions="Center"
+               IsVisible="false"
+               VerticalOptions="CenterAndExpand"/> 
+
+        <!--<Label.GestureRecognizers>
+                <SwipeGestureRecognizer Direction="Left" Swiped="OnSwipe"/>
+                <SwipeGestureRecognizer Direction="Right" Swiped="OnSwipe"/>
+            </Label.GestureRecognizers>
+        </Label>-->
+        
+        <!--<Label.BindingContext>
+                <local:PlayerViewModel />
+            </Label.BindingContext>-->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Button Text=" " x:Name="trueQ" Grid.Column="0" IsVisible="false"  HorizontalOptions="Start" BackgroundColor="#6C3483"  TextColor="White" FontSize="Title"/>
+
+            <Button Text="" x:Name="falseQ" Grid.Column="1" IsVisible="false"  HorizontalOptions="End" BackgroundColor="#6C3483"  TextColor="White" FontSize="Title"/>
+        </Grid>
+
+        <Label x:Name="party"
+               TextColor="CadetBlue" FontSize="Title" FontAttributes="Bold"
+               Text="" 
+               HorizontalOptions="Center"
+               IsVisible="false"
+               VerticalOptions="CenterAndExpand"/>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <!--<Button x:Name="trueBtn"  Text="True" Grid.Column="0" IsVisible="false"  Command="{Binding TrueCommand}" HorizontalOptions="Start" CharacterSpacing="5" BackgroundColor="#008000" BorderColor="Black" TextColor="White" FontSize="Title"/>
+
+            <Button x:Name="falseBtn" Text="False" Grid.Column="1" IsVisible="false" Command="{Binding FalseCommand}" HorizontalOptions="End" CharacterSpacing="5"  BackgroundColor="#c74c34" BorderColor="Black" TextColor="White" FontSize="Title"/>-->
+
+            <Button Text=" A " x:Name="trueBtn" Grid.Column="0" IsVisible="false" Clicked="trueButton" HorizontalOptions="Start" CharacterSpacing="5" BackgroundColor="#008000" BorderColor="Black" TextColor="White" FontSize="Title"/>
+
+            <Button Text="  B " x:Name="falseBtn" Grid.Column="1" IsVisible="false" Clicked="falseButton" HorizontalOptions="End" CharacterSpacing="5"  BackgroundColor="#c74c34" BorderColor="Black" TextColor="White" FontSize="Title"/>
+        
+            
+        </Grid>
+        <Button Text="Show Result" IsVisible="false" Clicked="resultClicked" CharacterSpacing="3" HorizontalOptions="Center" BackgroundColor="#2471A3" x:Name="resultbtn"/>
+
+    </StackLayout>
+
+</ContentPage>
